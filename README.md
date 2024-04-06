@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @felixocham
+- 👀 My interest in data can be summed up by Dr. W. Edwards Deming's quote: Without data, you are just another person with an opinion.
+- 🌱 I’m currently learning ML.
+- 💞️ I’m looking to collaborate on data analysis projects.
